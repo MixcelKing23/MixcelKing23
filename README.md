@@ -18,8 +18,8 @@ MixcelLab is more than just a business; it's a commitment to digital excellence.
 - **One-Stop-Shop:** We streamline the digital process, saving you time and effort.
 
 🔗 **Connect with MixcelLab:**
-- [Website](#) | Explore our services and upcoming launches.
-- [Contact Us](#) | Have questions or need assistance? We're here to help.
+- [Website](https://mixcellab.com/) | Explore our services and upcoming launches.
+- [Contact Us](https://api.whatsapp.com/send/?phone=17844338406&text&type=phone_number&app_absent=0) | Have questions or need assistance? We're here to help.
 
 📣 **Stay Updated:**
 Follow us on social media for the latest updates, exclusive offers, and digital insights.
